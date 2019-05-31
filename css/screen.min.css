@@ -1,22 +1,22 @@
 @font-face {
   font-family: "Ogg Roman";
   src: url(../fonts/Ogg-Roman.eot);
-  src: url(http://editions.jordansowers.com/fonts/Ogg-Roman?)
+  /*src: url(http://editions.jordansowers.com/fonts/Ogg-Roman?)
       format("embedded-opentype"),
     url(../fonts/Ogg-Roman.woff2.html) format("woff2"),
     url(../fonts/Ogg-Roman.woff) format("woff"),
     url(http://editions.jordansowers.com/fonts/Ogg-Roman.ttf) format("truetype"),
-    url(http://editions.jordansowers.com/fonts/Ogg-Roman.svg) format("svg");
+    url(http://editions.jordansowers.com/fonts/Ogg-Roman.svg) format("svg");*/
 }
 @font-face {
   font-family: "HelveticaNeueLTPro-Lt";
   src: url(../fonts/Helvetica.eot);
-  src: url(http://editions.jordansowers.com/fonts/Helvetica?)
+  /*src: url(http://editions.jordansowers.com/fonts/Helvetica?)
       format("embedded-opentype"),
     url(../fonts/Helvetica.woff2.html) format("woff2"),
     url(../fonts/Helvetica.woff) format("woff"),
     url(../fonts/Helvetica.ttf.html) format("truetype"),
-    url(http://editions.jordansowers.com/fonts/Helvetica.svg) format("svg");
+    url(http://editions.jordansowers.com/fonts/Helvetica.svg) format("svg");*/
 }
 a,
 abbr,
